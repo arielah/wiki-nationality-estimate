@@ -1,0 +1,9 @@
+Group	ISMB Count	ISMB %	PubMed Count	PubMed %	Probabilistic ISMB	Probabilistic PubMed
+African	4	1.15%	1325	1.04%	1.88%	1.92%
+CelticEnglish	208	59.77%	39334	30.97%	55.85%	31.52%
+EastAsian	20	5.75%	28154	22.17%	5.56%	21.01%
+European	76	21.84%	28256	30.11%	22.61%	29.27%
+Hispanic	11	3.16%	9187	7.23%	4.66%	7.54%
+Israel	16	4.60%	1500	1.18%	5.29%	1.31%
+Muslim	2	5.75%	4108	3.23%	1.24%	3.43%
+SouthAsian	11	3.16%	5153	4.06%	2.91%	3.99%

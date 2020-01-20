@@ -1,0 +1,119 @@
+European	Norway
+Muslim	Morocco
+Muslim	Pakistan
+Muslim	Egypt
+Muslim	Saudi Arabia
+CelticEnglish	United States
+EastAsian	Indonesia
+Hispanic	Mexico
+European	Netherlands
+European	France
+European	Romania
+CelticEnglish	Australia
+SouthAsian	India
+European	Denmark
+European	Belgium
+CelticEnglish	Canada
+CelticEnglish	New Zealand
+Muslim	Qatar
+European	Estonia
+EastAsian	South Korea
+European	Finland
+Iberia	Spain
+Hispanic	Philippines
+European	Italy
+CelticEnglish	United Kingdom
+African	South Africa
+Muslim	Somalia
+African	Ethiopia
+African	Niger
+African	Uganda
+African	Ghana
+African	Kenya
+Hispanic	Chile
+Muslim	Algeria
+Muslim	Turkey
+Hispanic	Colombia
+Hispanic	Venezuela
+Muslim	Iran
+Muslim	Tunisia
+EastAsian	Malaysia
+European	Sweden
+Muslim	Iraq
+Hispanic	Argentina
+Muslim	Syria
+European	Bulgaria
+Israel	Israel
+European	Croatia
+Muslim	Libya
+Muslim	Azerbaijan
+Muslim	Sudan
+European	Russia
+European	Belarus
+African	Togo
+African	Equatorial Guinea
+African	South Sudan
+European	Germany
+Hispanic	El Salvador
+European	Greece
+Hispanic	Nicaragua
+European	Hungary
+SouthAsian	Sri Lanka
+European	North Macedonia
+European	Bosnia and Herzegovina
+Muslim	Kuwait
+Muslim	United Arab Emirates
+Muslim	Lebanon
+Muslim	Bangladesh
+EastAsian	Hong Kong
+Muslim	Jordan
+African	Botswana
+European	Switzerland
+CelticEnglish	Ireland
+European	Serbia
+Hispanic	Brazil
+Hispanic	Uruguay
+African	Tanzania
+Muslim	Kazakhstan
+EastAsian	Singapore
+EastAsian	China
+Hispanic	Paraguay
+Muslim	Uzbekistan
+African	Congo
+Muslim	Afghanistan
+European	Czech Republic
+European	Ukraine
+EastAsian	Japan
+European	Austria
+Iberia	Portugal
+European	Latvia
+European	Slovakia
+European	Poland
+African	Sierra Leone
+European	Slovenia
+European	Lithuania
+African	Benin
+Hispanic	Costa Rica
+Hispanic	Panama
+African	Namibia
+Hispanic	Peru
+Hispanic	Mozambique
+Hispanic	Angola
+African	Senegal
+EastAsian	North Korea
+Hispanic	Guatemala
+Hispanic	Honduras
+SouthAsian	Nepal
+Hispanic	Ecuador
+Hispanic	Bolivia
+African	Liberia
+EastAsian	Thailand
+African	Guinea
+European	Montenegro
+EastAsian	Myanmar
+African	Rwanda
+EastAsian	Taiwan
+African	Zimbabwe
+EastAsian	Cambodia
+EastAsian	Vietnam
+African	Zambia
